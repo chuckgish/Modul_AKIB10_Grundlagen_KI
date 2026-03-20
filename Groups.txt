@@ -1,0 +1,8 @@
+Group 1: ['Max R', 'Saqib S', 'Meryem', 'Seid', 'Michael', 'Christian E', 'Samuel']
+Group 2: ['Kira', 'Aziz', 'Niklas', 'Omar', 'Miriam', 'Justin B', 'Iva S', 'Lena F']
+Group 3: ['Clemens', 'Josan', 'Burak', 'Selim','Noel B', 'Johnny']
+Group 4: ['Youssef', 'Luis S', 'Sevra', 'Petrus', 'Tim', 'Leon V', 'Drin', 'Sinan']
+Group 5: ['Dennis M', 'Romeo L', 'Arnold', 'Jan', 'Max L', 'Lukas H']
+Group 6: ['Muhammed', 'Fatih', 'Luna', 'Aleyna', 'Georgios T', 'Tunay S', 'Sinem']
+Group 7: ['Melisa', 'Hannes D', 'Arsenii', 'Gizem', 'Maksym B', 'Christian K']
+Group 8: ['Paul', 'Philipp D', 'Sven', 'Adrian Q', 'Simon S', 'Patrick']
