@@ -6,3 +6,15 @@ Group 5: ['Dennis M', 'Romeo L', 'Arnold', 'Jan', 'Max L', 'Lukas H', 'Panvir']
 Group 6: ['Muhammed', 'Fatih', 'Luna', 'Aleyna', 'Georgios T', 'Tunay S', 'Sinem']
 Group 7: ['Melisa', 'Hannes D', 'Arsenii', 'Gizem', 'Maksym B', 'Christian K']
 Group 8: ['Paul', 'Philipp D', 'Sven', 'Adrian Q', 'Simon S', 'Johnny', 'Patrick']
+
+
+WR:
+
+Group 1: ['Christian E', 'Saqib S', 'Drin', 'Clemens', 'Jan', 'Tim', 'Josan']
+Group 2: ['Saide', 'Sevra', 'Samuel', 'Johnny', 'Iva Z', 'Luis S', 'Youssef']
+Group 3: ['Kira R', 'Sinem D', 'Arnold', 'Patrik H', 'Simon S', 'Georgios T', 'Lukas H']
+Group 4: ['Justin B', 'Gizem', 'Leon V', 'Tunay S', 'Romeo L', 'Selim', 'Miriam K']
+Group 5: ['Aziz', 'Dennis M', 'Meryem', 'Niklas', 'Aleyna Ö', 'Arsenii', 'Fatih']
+Group 6: ['Sinan', 'Max R', 'Sven', 'Hannes D', 'Muhammed', 'Luna P']
+Group 7: ['Adrian Q', 'Paul', 'Michael', 'Christian K', 'Omar', 'Petras']
+Group 8: ['Lena F', 'Melisa', 'Philipp D', 'Maksym B', 'Seid', 'Max L']
