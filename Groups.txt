@@ -18,3 +18,15 @@ Group 5: ['Aziz', 'Dennis M', 'Meryem', 'Niklas', 'Aleyna Ö', 'Arsenii', 'Fatih
 Group 6: ['Sinan', 'Max R', 'Sven', 'Hannes D', 'Muhammed', 'Luna P','Burak']
 Group 7: ['Adrian Q', 'Paul', 'Michael', 'Christian K', 'Omar', 'Petras']
 Group 8: ['Lena F', 'Melisa', 'Philipp D', 'Maksym B', 'Seid', 'Max L']
+
+
+Supervised ML:
+
+Group 1: ['Johnny', 'Arsenii', 'Fatih', 'Sven', 'Hannes D', 'Georgios T', 'Dennis M']
+Group 2: ['Max R', 'Saqib S', 'Petras', 'Saide', 'Josan', 'Tunay S', 'Leon V']
+Group 3: ['Justin B', 'Christian K', 'Sevra', 'Paul', 'Selim', 'Miriam K', 'Meryem']
+Group 4: ['Lena F', 'Luis S', 'Gizem', 'Sinem D', 'Seid', 'Maksym B', 'Iva Z']
+Group 5: ['Simon S', 'Romeo L', 'Burak', 'Tim', 'Philipp D', 'Muhammed', 'Christian E']
+Group 6: ['Youssef', 'Arnold', 'Omar', 'Adrian Q', 'Melisa', 'Luna P', 'Patrik H']
+Group 7: ['Aziz', 'Jan', 'Max L', 'Kira R', 'Lukas H', 'Aleyna Ö']
+Group 8: ['Clemens', 'Drin', 'Samuel', 'Niklas', 'Michael', 'Sinan']
