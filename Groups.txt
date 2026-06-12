@@ -22,11 +22,24 @@ Group 8: ['Lena F', 'Melisa', 'Philipp D', 'Maksym B', 'Seid', 'Max L']
 
 Supervised ML:
 
-Group 1: ['Johnny', 'Arsenii', 'Fatih', 'Sven', 'Hannes D', 'Georgios T', 'Dennis M']
+Group 1: ['Arsenii', 'Fatih', 'Sven', 'Hannes D', 'Georgios T', 'Dennis M']
 Group 2: ['Max R', 'Saqib S', 'Petras', 'Saide', 'Josan', 'Tunay S', 'Leon V']
 Group 3: ['Justin B', 'Christian K', 'Sevra', 'Paul', 'Selim', 'Miriam K', 'Meryem']
 Group 4: ['Lena F', 'Luis S', 'Gizem', 'Sinem D', 'Seid', 'Maksym B', 'Iva Z']
 Group 5: ['Simon S', 'Romeo L', 'Burak', 'Tim', 'Philipp D', 'Muhammed', 'Christian E']
 Group 6: ['Youssef', 'Arnold', 'Omar', 'Adrian Q', 'Melisa', 'Luna P', 'Patrik H']
-Group 7: ['Aziz', 'Jan', 'Max L', 'Kira R', 'Lukas H', 'Aleyna Ö']
+Group 7: ['Aziz', 'Jan', 'Max L', 'Kira R', 'Lukas H', 'Aleyna Ö', 'Johnny']
 Group 8: ['Clemens', 'Drin', 'Samuel', 'Niklas', 'Michael', 'Sinan']
+
+
+Symbolische KI (Vector Symbolic Archtectures):
+
+Group 1: ['Meryem', 'Hannes D', 'Fatih', 'Seid', 'Drin', 'Niklas', 'Maksym B']
+Group 2: ['Iva Z', 'Saide', 'Sevra', 'Luna P', 'Adrian Q', 'Youssef', 'Josan']
+Group 3: ['Burak', 'Georgios T', 'Samuel', 'Justin B', 'Clemens', 'Jan', 'Miriam K']
+Group 4: ['Aleyna Ö', 'Kira R', 'Sinem D', 'Lena F', 'Aziz', 'Sven', 'Johnny']
+Group 5: ['Tunay S', 'Max R', 'Luis S', 'Michael', 'Selim', 'Christian E', 'Romeo L']
+Group 6: ['Leon V', 'Sinan', 'Omar', 'Patrik H', 'Gizem', 'Arsenii', 'Melisa']
+Group 7: ['Tim', 'Arnold', 'Muhammed', 'Saqib S', 'Simon S', 'Lukas H']
+Group 8: ['Max L', 'Dennis M', 'Paul', 'Petras', 'Christian K', 'Philipp D']
+
